@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KENYA WEB DEVELOPERS</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">FINISH</string>
+    <string name="starter">Upto 4 web pages Free initial Internet Marketing Free Domain Registration Free web hosting upto 20GB 2 Free email account Account Control Panel FREE 24/7 Support</string>
+</resources>
